@@ -1,5 +1,8 @@
 package com.fse.ecom;
 
+/*
+ * ecommerce exercise
+ */
 public class ECommerce {
 	
  public static void main(String[] args) {
