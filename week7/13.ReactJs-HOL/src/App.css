@@ -1,0 +1,31 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  font-family: 'Arial', sans-serif;
+}
+
+.column {
+  flex: 1;
+  padding: 0 30px;
+}
+
+.middle {
+  border-left: 3px solid green;
+  border-right: 3px solid green;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+p {
+  margin: 0 0 10px;
+}
